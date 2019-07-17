@@ -1,4 +1,3 @@
-A sample Node.js app to demonstrate **__fabric-client__** & **__fabric-ca-client__** Node.js SDK APIs
 
 ### Prerequisites and setup:
 
@@ -7,6 +6,7 @@ A sample Node.js app to demonstrate **__fabric-client__** & **__fabric-ca-client
 * [Git client](https://git-scm.com/downloads) - needed for clone commands
 * **Node.js** v8.4.0 or higher
 * [Download Docker images](http://hyperledger-fabric.readthedocs.io/en/latest/samples.html#binaries)
+
 
 Once you have completed the above setup, you will have provisioned a local network with the following docker container configuration:
 
